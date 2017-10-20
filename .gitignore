@@ -1,0 +1,41 @@
+########################
+# node.js / npm
+########################
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+
+node_modules
+
+npm-debug.log
+package-lock.json
+
+.jenkins.conf
+
+
+########################
+# misc / editors
+########################
+*~
+*#
+**/.DS_STORE/**
+**/.netbeans/**
+**/nbproject/**
+**/.idea/**
+**/tracegl.js/**
+**/sftp-config.json/**
+**/tmp/**
+**TODO.md**
+
+
+##########
+# Built file
+##########
+index.js
