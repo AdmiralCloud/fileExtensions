@@ -1,0 +1,12 @@
+[
+	{
+		"ext": "gif",
+		"name": "Compuserve Graphics Interchange Format",
+		"mimetype": "image/gif"
+	},
+	{
+		"ext": "gz",
+		"name": "GNU-Zip",
+		"mimetype": "application/x-compressed"
+	}
+]

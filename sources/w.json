@@ -1,0 +1,47 @@
+[
+	{
+		"ext": "wav",
+		"name": "Microsoft Wave",
+		"mimetype": "audio/wav"
+	},
+	{
+		"ext": "webm",
+		"name": "Multimedia Container",
+		"mimetype": "video/webm"
+	},
+	{
+		"ext": "wma",
+		"name": "Windows Media Audio",
+		"mimetype": "audio/x-ms-wma"
+	},
+	{
+		"ext": "wmd",
+		"name": "Windows Media",
+		"mimetype": "application/x-ms-wmd"
+	},
+	{
+		"ext": "wmv",
+		"name": "Windows Media Video",
+		"mimetype": "video/x-ms-wmv"
+	},
+	{
+		"ext": "wmz",
+		"name": "Windows Metafile Zip",
+		"mimetype": "application/x-ms-wmz"
+	},
+	{
+		"ext": "wpl",
+		"name": "Windows Media Player Playlist",
+		"mimetype": "application/vnd.ms-wpl"
+	},
+	{
+		"ext": "wsc",
+		"name": "Microsoft Windows scripting component",
+		"mimetype": "text/scriptlet"
+	},
+	{
+		"ext": "wsdl",
+		"name": "Web Services Description Language",
+		"mimetype": "application/xml"
+	}
+]

@@ -1,7 +1,32 @@
 [
-  {
-    "ext": "ai",
-    "name": "Adobe Illustrator",
-    "mimeType": ""
-  }
+	{
+		"ext": "ai",
+		"name": "Adobe Illustrator",
+		"mimetype": "application/postscript"
+	},
+	{
+		"ext": "aac",
+		"name": "Advanced Audio Coding",
+		"mimetype": "audio/vnd.dlna.adts"
+	},
+	{
+		"ext": "aif",
+		"name": "Audio Interchange File",
+		"mimetype": "audio/aiff"
+	},
+	{
+		"ext": "aiff",
+		"name": "Audio Interchange File Format",
+		"mimetype": "audio/x-aiff"
+	},
+	{
+		"ext": "asf",
+		"name": "Advanced Streaming Format",
+		"mimetype": "video/x-ms-asf"
+	},
+	{
+		"ext": "avi",
+		"name": "Audio Video Interleave",
+		"mimetype": "video/avi"
+	}
 ]

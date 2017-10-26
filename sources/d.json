@@ -1,0 +1,37 @@
+[
+	{
+		"ext": "doc",
+		"name": "Document",
+		"mimetype": "application/msword"
+	},
+	{
+		"ext": "docm",
+		"name": "Document with Macros",
+		"mimetype": "application/vnd.ms-word.document.macroEnabled.12"
+	},
+	{
+		"ext": "docx",
+		"name": "Word 2007 XML Document",
+		"mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+	},
+	{
+		"ext": "dot",
+		"name": "Document Template",
+		"mimetype": "application/msword"
+	},
+	{
+		"ext": "dotm",
+		"name": "Document Template with Macros",
+		"mimetype": "application/vnd.ms-word.template.macroEnabled.12"
+	},
+	{
+		"ext": "dotx",
+		"name": "Word 2007 XML Document Template",
+		"mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.template"
+	},
+	{
+		"ext": "dtd",
+		"name": "Document Type Definition",
+		"mimetype": "application/xml-dtd"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"ext": "cr2",
+		"name": "Canon RAW-Format",
+		"mimetype": "image/x-canon-cr2"
+	},
+	{
+		"ext": "css",
+		"name": "Cascading Style Sheet",
+		"mimetype": "text/css"
+	},
+	{
+		"ext": "csv",
+		"name": "Comma separated values",
+		"mimetype": "application/vnd.ms-excel"
+	}
+]

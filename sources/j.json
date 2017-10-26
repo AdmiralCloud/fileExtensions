@@ -1,0 +1,12 @@
+[
+	{
+		"ext": "jpg",
+		"name": "Joint Photographic Experts Group",
+		"mimetype": "image/jpeg"
+	},
+	{
+		"ext": "jp2",
+		"name": "JPEG 2000",
+		"mimetype": "image/jp2"
+	}	
+]

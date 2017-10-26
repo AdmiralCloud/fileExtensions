@@ -1,0 +1,82 @@
+[
+	{
+		"ext": "pdf",
+		"name": "Portable Document Format",
+		"mimetype": "application/pdf"
+	},
+	{
+		"ext": "png",
+		"name": "Portable Network Graphics",
+		"mimetype": "image/png"
+	},
+	{
+		"ext": "pot",
+		"name": "Portable Object Template",
+		"mimetype": "application/vnd.ms-powerpoint"
+	},
+	{
+		"ext": "potm",
+		"name": "PowerPoint Open XML Macro-Enabled Presentation Template",
+		"mimetype": "application/vnd.ms-powerpoint.template.macroEnabled.12"
+	},
+	{
+		"ext": "potx",
+		"name": "PowerPoint Open XML Macro-Enabled Presentation Template",
+		"mimetype": "application/vnd.openxmlformats-officedocument.presentationml.template"
+	},
+	{
+		"ext": "ppa",
+		"name": "Powerpoint",
+		"mimetype": "application/vnd.ms-powerpoint"
+	},
+	{
+		"ext": "ppam",
+		"name": "Microsoft PowerPoint 2007 Add-in with macros",
+		"mimetype": "application/vnd.ms-powerpoint.addin.macroEnabled.12"
+	},
+	{
+		"ext": "pps",
+		"name": "PowerPoint",
+		"mimetype": "application/vnd.ms-powerpoint"
+	},
+	{
+		"ext": "ppsm",
+		"name": "Microsoft Office Open XML Format Presentation Slide Show with Macros Enabled",
+		"mimetype": "application/vnd.ms-powerpoint.slideshow.macroEnabled.12"
+	},
+	{
+		"ext": "ppsx",
+		"name": "Microsoft Office Open XML Format Presentation Slide Show",
+		"mimetype": "application/vnd.openxmlformats-officedocument.presentationml.slideshow"
+	},
+	{
+		"ext": "ppt",
+		"name": "Powerpoint",
+		"mimetype": "application/vnd.ms-powerpoint"
+	},
+	{
+		"ext": "pptm",
+		"name": "Microsoft Office Open XML Format Presentation with Macros Enabled",
+		"mimetype": "application/vnd.ms-powerpoint.presentation.macroEnabled.12"
+	},
+	{
+		"ext": "pptx",
+		"name": "Powerpoint",
+		"mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+	},
+	{
+		"ext": "prf",
+		"name": "SoftMaker Presentations-Dokument",
+		"mimetype": "application/pics-rules"
+	},
+	{
+		"ext": "ps",
+		"name": "Postscript",
+		"mimetype": "application/postscript"
+	},
+	{
+		"ext": "pwz",
+		"name": "Powerpoint Wizard",
+		"mimetype": "application/vnd.ms-powerpoint"
+	}
+]

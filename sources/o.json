@@ -1,0 +1,52 @@
+[
+	{
+		"ext": "odg",
+		"name": "OpenDocument Graphics",
+		"mimetype": "application/vnd.oasis.opendocument.graphics"
+	},
+	{
+		"ext": "odm",
+		"name": "OpenDocument Master",
+		"mimetype": "application/vnd.oasis.opendocument.text-master"
+	},
+	{
+		"ext": "odp",
+		"name": "OpenDocument Presentation",
+		"mimetype": "application/vnd.oasis.opendocument.presentation"
+	},
+	{
+		"ext": "ods",
+		"name": "OpenDocument Spreadsheet",
+		"mimetype": "application/vnd.oasis.opendocument.spreadsheet"
+	},
+	{
+		"ext": "odt",
+		"name": "OpenDocument Text",
+		"mimetype": "application/vnd.oasis.opendocument.text"
+	},
+	{
+		"ext": "otg",
+		"name": "OpenDocument Template Drawing",
+		"mimetype": "application/vnd.oasis.opendocument.graphics-template"
+	},
+	{
+		"ext": "oth",
+		"name": "OpenDocument Template HTML",
+		"mimetype": "application/vnd.oasis.opendocument.text-web"
+	},
+	{
+		"ext": "ots",
+		"name": "OpenDocument Template Spreadsheet",
+		"mimetype": "application/vnd.oasis.opendocument.spreadsheet-template"
+	},
+	{
+		"ext": "ott",
+		"name": "OpenDocument Template Text",
+		"mimetype": "application/vnd.oasis.opendocument.text-template"
+	},
+	{
+		"ext": "oxt",
+		"name": "OpenOffice.org extension",
+		"mimetype": "application/vnd.openofficeorg.extension"
+	}
+]

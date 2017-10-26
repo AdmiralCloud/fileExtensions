@@ -1,0 +1,12 @@
+[
+	{
+		"ext": "eps",
+		"name": "Encapsulated PostScript",
+		"mimetype": "application/postscript"
+	},
+	{
+		"ext": "exe",
+		"name": "Executable",
+		"mimetype": "application/octet-stream"
+	}
+]

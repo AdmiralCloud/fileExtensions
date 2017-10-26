@@ -1,0 +1,17 @@
+[
+	{
+		"ext": "ics",
+		"name": "ICalendar-File",
+		"mimetype": "text/calendar"
+	},
+	{
+		"ext": "ico",
+		"name": "Icon",
+		"mimetype": "image/vnd.microsoft.icon"
+	},
+	{
+		"ext": "indd",
+		"name": "InDesign Document",
+		"mimetype": "application/x-indesign"
+	}
+]

@@ -1,0 +1,22 @@
+[
+	{
+		"ext": "tga",
+		"name": "TrueVision Targa",
+		"mimetype": "image/targa"
+	},
+	{
+		"ext": "tif",
+		"name": "Tagged Image File",
+		"mimetype": "image/tiff"
+	},
+	{
+		"ext": "ts",
+		"name": "Transport Stream",
+		"mimetype": "video/vnd.dlna.mpeg-tts"
+	},
+	{
+		"ext": "txt",
+		"name": "MS-Word Text",
+		"mimetype": "text/plain"
+	}
+]

@@ -1,7 +1,62 @@
 [
-  {
-    "ext": "mov",
-    "name": "Quicktime Movie",
-    "mimeType": "video/quicktime"
-  }
+	{
+		"ext": "mov",
+		"name": "Quicktime Movie",
+		"mimetype": "video/quicktime"
+	},
+	{
+		"ext": "mp3",
+		"name": "Moving Pictures Experts Group 1/2 Audio Layer 3",
+		"mimetype": "audio/mpeg"
+	},
+	{
+		"ext": "mp4",
+		"name": "Moving Pictures Experts Group 4 Audio & Video",
+		"mimetype": "video/mp4"
+	},
+	{
+		"ext": "mpeg",
+		"name": "Moving Picture Experts Group",
+		"mimetype": "video/mpeg"
+	},
+	{
+		"ext": "mxf",
+		"name": "Material Exchange Format",
+		"mimetype": "application/mxf"
+	},
+	{
+		"ext": "m4a",
+		"name": "MPEG-4 audio file",
+		"mimetype": "audio/m4a"
+	},
+	{
+		"ext": "m4v",
+		"name": "MPEG-4 video file",
+		"mimetype": "video/x-m4v"
+	},
+	{
+		"ext": "mjpeg",
+		"name": "Motion Joint Photographic Experts Group",
+		"mimetype": "video/x-motion-jpeg"
+	},
+	{
+		"ext": "mts",
+		"name": "Moving Picture Experts Group Transport Stream",
+		"mimetype": "video/MP2T"
+	},
+	{
+		"ext": "mpegvideo",
+		"name": "Moving Picture Experts Groups Video",
+		"mimetype": ""
+	},
+	{
+		"ext": "mpg",
+		"name": "Moving Picture Experts Group",
+		"mimetype": "audio/mpeg"
+	},
+	{
+		"ext": "msi",
+		"name": "Microsoft Installer",
+		"mimetype": "application/x-msi"
+	}
 ]

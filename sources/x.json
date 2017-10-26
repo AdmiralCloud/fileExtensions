@@ -1,0 +1,67 @@
+[
+	{
+		"ext": "xdp",
+		"name": "Acrobat XML data package",
+		"mimetype": "application/vnd.adobe.xdp+xml"
+	},
+	{
+		"ext": "xdr",
+		"name": "XML-Data Reduced Schema",
+		"mimetype": "application/xml"
+	},
+	{
+		"ext": "xfdf",
+		"name": "Adobe Acrobat forms document",
+		"mimetype": "application/vnd.adobe.xfdf"
+	},
+	{
+		"ext": "xht",
+		"name": "Extensible HTML document",
+		"mimetype": "application/xhtml+xml"
+	},
+	{
+		"ext": "xhtml",
+		"name": "Extensible HTML document",
+		"mimetype": "application/xhtml+xml"
+	},
+	{
+		"ext": "xla",
+		"name": "Microsoft Excel",
+		"mimetype": "application/vnd.ms-excel"
+	},
+	{
+		"ext": "xlam",
+		"name": "Microsoft Excel Add-In with Macros",
+		"mimetype": "application/vnd.ms-excel.addin.macroEnabled.12"
+	},
+	{
+		"ext": "xls",
+		"name": "Microsoft Excel Sheet",
+		"mimetype": "application/vnd.ms-excel"
+	},
+	{
+		"ext": "xlsx",
+		"name": "Microsoft Excel Sheet",
+		"mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+	},
+	{
+		"ext": "xlt",
+		"name": "Microsoft Excel Template",
+		"mimetype": "application/vnd.ms-excel"
+	},
+	{
+		"ext": "xltm",
+		"name": "Microsoft Excel Template with Macros",
+		"mimetype": "application/vnd.ms-excel.template.macroEnabled.12"
+	},
+	{
+		"ext": "xltx",
+		"name": "Microsoft Excel Template",
+		"mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.template"
+	},
+	{
+		"ext": "xlw",
+		"name": "Microsoft Excel Workspace",
+		"mimetype": "application/vnd.ms-excel"
+	}
+]
