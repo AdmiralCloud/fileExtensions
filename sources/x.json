@@ -63,5 +63,10 @@
 		"ext": "xlw",
 		"name": "Microsoft Excel Workspace",
 		"mimetype": "application/vnd.ms-excel"
+	},
+	{
+		"ext": "xsd",
+		"name": "XML Schema Definition",
+		"mimetype": "text/xml"
 	}
 ]

@@ -3,5 +3,15 @@
 		"ext": "rtf",
 		"name": "Rich Text Format",
 		"mimetype": "application/msword"
-	}
+	},
+	{
+		"ext": "rar",
+		"name": "RAR-Archiv",
+		"mimetype": "application/x-rar-compressed"
+	},
+	{
+		"ext": "r3d",
+		"name": "REDCODE Video File",
+		"mimetype": "application/octet-stream"
+	}	
 ]

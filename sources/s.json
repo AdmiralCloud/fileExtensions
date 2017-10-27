@@ -3,5 +3,10 @@
 		"ext": "svg",
 		"name": "Scalable Vector Graphics",
 		"mimetype": "image/svg+xml"
+	},
+	{
+		"ext": "srt",
+		"name": "SubRipper Subtitle Information",
+		"mimetype": "text/plain"
 	}
 ]

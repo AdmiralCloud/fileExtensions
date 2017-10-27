@@ -3,5 +3,10 @@
 		"ext": "vcf",
 		"name": "vCard",
 		"mimetype": "text/x-vcard"
-	}
+	},
+	{
+		"ext": "vtt",
+		"name": "Video Text Tracks",
+		"mimetype": "text/vtt"
+	}	
 ]

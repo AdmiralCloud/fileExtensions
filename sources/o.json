@@ -48,5 +48,20 @@
 		"ext": "oxt",
 		"name": "OpenOffice.org extension",
 		"mimetype": "application/vnd.openofficeorg.extension"
-	}
+	},
+	{
+		"ext": "octet-stream",
+		"name": "Attachment",
+		"mimetype": "application/octet-stream"
+	},
+	{
+		"ext": "ogg",
+		"name": "Ogg File Format",
+		"mimetype": "audio/ogg"
+	},
+	{
+		"ext": "otf",
+		"name": "OpenType Font",
+		"mimetype": "application/x-font-opentype"
+	}	
 ]
