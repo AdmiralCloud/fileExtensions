@@ -1,5 +1,50 @@
 [
 	{
+		"ext": "cat",
+		"name": "Catalog",
+		"mimetype": "application/vnd.ms-pki.seccat"
+	},
+	{
+		"ext": "cd",
+		"name": "Visual Studio Class Diagram",
+		"mimetype": "text/plain"
+	},
+	{
+		"ext": "cer",
+		"name": "Internet Security Certificate",
+		"mimetype": "application/x-x509-ca-cert"
+	},
+	{
+		"ext": "config",
+		"name": "Configuration",
+		"mimetype": "application/xml"
+	},
+	{
+		"ext": "contact",
+		"name": "Windows Contact",
+		"mimetype": "text/x-ms-contact"
+	},
+	{
+		"ext": "crl",
+		"name": "Certificate Revocation List",
+		"mimetype": "application/pkix-crl"
+	},
+	{
+		"ext": "crt",
+		"name": "Security Certificate",
+		"mimetype": "application/x-x509-ca-cert"
+	},
+	{
+		"ext": "cs",
+		"name": "Visual C# Source Code",
+		"mimetype": "text/plain"
+	},
+	{
+		"ext": "csproj",
+		"name": "Visual Studio C# Project",
+		"mimetype": "text/plain"
+	},
+	{
 		"ext": "cr2",
 		"name": "Canon RAW-Format",
 		"mimetype": "image/x-canon-cr2"

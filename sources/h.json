@@ -1,5 +1,10 @@
 [
 	{
+		"ext": "hdd",
+		"name": "Parallels Desktop Hard Disk",
+		"mimetype": "application/x-virtualbox-hdd"
+	},
+	{
 		"ext": "html",
 		"name": "Hypertext Markup Language",
 		"mimetype": "text/html"
@@ -7,6 +12,96 @@
 	{
 		"ext": "hprj",
 		"name": "Heroglyph Project Format",
-		"mimetype": ""
-	}	
+		"mimetype": "application/octet-stream"
+	},
+	{
+		"ext": "hta",
+		"name": "HTML Application",
+		"mimetype": "application/hta"
+	},
+	{
+		"ext": "htc",
+		"name": "HTML Components",
+		"mimetype": "text/x-component"
+	},
+	{
+		"ext": "htm",
+		"name": "HTML File",
+		"mimetype": "text/html"
+	},
+	{
+		"ext": "hxa",
+		"name": "Microsoft Help 2 Attribute Definition",
+		"mimetype": "application/xml"
+	},
+	{
+		"ext": "hxc",
+		"name": "Microsoft Help 2 Collection Definition",
+		"mimetype": "application/xml"
+	},
+	{
+		"ext": "hxd",
+		"name": "Microsoft Help Validator",
+		"mimetype": "application/octet-stream"
+	},
+	{
+		"ext": "hxe",
+		"name": "Microsoft Help 2 Sample Definition",
+		"mimetype": "application/xml"
+	},
+	{
+		"ext": "hxf",
+		"name": "Microsoft Help Include",
+		"mimetype": "application/xml"
+	},
+	{
+		"ext": "hxh",
+		"name": "Microsoft Help 2 Merged",
+		"mimetype": "application/octet-stream"
+	},
+	{
+		"ext": "hxi",
+		"name": "Microsoft Help 2 Compiled Help Index",
+		"mimetype": "application/octet-stream"
+	},
+	{
+		"ext": "hxk",
+		"name": "Microsoft Help 2 Keyword Index",
+		"mimetype": "application/xml"
+	},
+	{
+		"ext": "hxq",
+		"name": "Microsoft Help 2 Query Data",
+		"mimetype": "application/octet-stream"
+	},
+	{
+		"ext": "hxr",
+		"name": "Microsoft Help Data",
+		"mimetype": "application/octet-stream"
+	},
+	{
+		"ext": "hxs",
+		"name": "Microsoft Help Compiled Storage",
+		"mimetype": "application/octet-stream"
+	},
+	{
+		"ext": "hxt",
+		"name": "Microsoft Help 2 Table of Contents",
+		"mimetype": "application/xml"
+	},
+	{
+		"ext": "hxv",
+		"name": "Microsoft Help Virtual Topic Definition",
+		"mimetype": "application/xml"
+	},
+	{
+		"ext": "hxw",
+		"name": "Microsoft Help 2 Merged Index",
+		"mimetype": "application/octet-stream"
+	},
+	{
+		"ext": "hqx",
+		"name": "BinHex 4.0 Encoded",
+		"mimetype": "application/mac-binhex40"
+	}		
 ]

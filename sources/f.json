@@ -1,5 +1,15 @@
 [
     {
+        "ext": "fdf",
+        "name": "Acrobat Forms Data Format",
+        "mimetype": "application/vnd.fdf"
+    },
+    {
+        "ext": "fif",
+        "name": "Fractal Image File",
+        "mimetype": "application/fractals"
+    },    
+    {
         "ext": "flv",
         "name": "Flash Video",
         "mimetype": "video/x-flv"

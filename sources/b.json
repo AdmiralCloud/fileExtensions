@@ -3,5 +3,30 @@
 		"ext": "bmp",
 		"name": "Bitmap",
 		"mimetype": "image/bmp"
-	}
+	},
+	{
+		"ext": "btapp",
+		"name": "uTorrent Application",
+		"mimetype": "application/x-bittorrent-app"
+	},
+	{
+		"ext": "btinstall",
+		"name": "uTorrent Installer",
+		"mimetype": "application/x-bittorrent-appinst"
+	},
+	{
+		"ext": "btkey",
+		"name": "uTorrent License Key",
+		"mimetype": "application/x-bittorrent-key"
+	},
+	{
+		"ext": "btsearch",
+		"name": "BitTorrent Search Engine",
+		"mimetype": "application/x-bittorrentsearchdescription+xml"
+	},
+	{
+		"ext": "btskin",
+		"name": "uTorrent Skin",
+		"mimetype": "application/x-bittorrent-skin"
+	}	
 ]

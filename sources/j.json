@@ -1,5 +1,25 @@
 [
 	{
+		"ext": "jfif",
+		"name": "JPEG File Interchange Format",
+		"mimetype": "image/jpeg"
+	},
+	{
+		"ext": "jnlp",
+		"name": "Java Network Launching Protocol",
+		"mimetype": "application/x-java-jnlp-file"
+	},
+	{
+		"ext": "jpe",
+		"name": "Joint Photographic Experts Group",
+		"mimetype": "image/jpeg"
+	},
+	{
+		"ext": "jpeg",
+		"name": "Joint Photographic Experts Group",
+		"mimetype": "image/jpeg"
+	},
+	{
 		"ext": "jpg",
 		"name": "Joint Photographic Experts Group",
 		"mimetype": "image/jpeg"
@@ -8,5 +28,10 @@
 		"ext": "jp2",
 		"name": "JPEG 2000",
 		"mimetype": "image/jp2"
+	},
+	{
+		"ext": "js",
+		"name": "JavaScript Source Code",
+		"mimetype": "application/javascript"
 	}	
 ]

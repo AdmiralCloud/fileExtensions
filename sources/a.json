@@ -5,13 +5,43 @@
 		"mimetype": "application/postscript"
 	},
 	{
+		"ext": "aa",
+		"name": "Audible Audio",
+		"mimetype": "audio/audible"
+	},
+	{
 		"ext": "aac",
 		"name": "Advanced Audio Coding",
 		"mimetype": "audio/vnd.dlna.adts"
 	},
 	{
+		"ext": "aax",
+		"name": "Audio Audio Extended",
+		"mimetype": "audio/vnd.audible.aax"
+	},
+	{
+		"ext": "adt",
+		"name": "AdTech Fax",
+		"mimetype": "audio/vnd.dlna.adts"
+	},
+	{
+		"ext": "adts",
+		"name": "Audio Data Transport Stream",
+		"mimetype": "audio/vnd.dlna.adts"
+	},
+	{
+		"ext": "addin",
+		"name": "Visual Studio Add-in Definition",
+		"mimetype": "text/xml"
+	},
+		{
 		"ext": "aif",
 		"name": "Audio Interchange File",
+		"mimetype": "audio/aiff"
+	},
+	{
+		"ext": "aifc",
+		"name": "Audio Interchange Format Compressed",
 		"mimetype": "audio/aiff"
 	},
 	{
@@ -20,9 +50,49 @@
 		"mimetype": "audio/x-aiff"
 	},
 	{
+		"ext": "application",
+		"name": "Deployment Manifest",
+		"mimetype": "application/x-ms-application"
+	},
+	{
+		"ext": "asax",
+		"name": "ASP.NET Server Application",
+		"mimetype": "application/xml"
+	},
+	{
+		"ext": "ascx",
+		"name": "ASP.NET User Control",
+		"mimetype": "application/xml"
+	},
+	{
+		"ext": "ashx",
+		"name": "ASP.NET Web Handler",
+		"mimetype": "application/xml"
+	},
+	{
 		"ext": "asf",
 		"name": "Advanced Streaming Format",
 		"mimetype": "video/x-ms-asf"
+	},
+	{
+		"ext": "asmx",
+		"name": "ASP.NET Web Service",
+		"mimetype": "application/xml"
+	},
+	{
+		"ext": "aspx",
+		"name": "Active Server Page Extended",
+		"mimetype": "application/xml"
+	},
+	{
+		"ext": "asx",
+		"name": "Microsoft Advanced Streaming Redirector",
+		"mimetype": "video/x-ms-asf"
+	},
+	{
+		"ext": "au",
+		"name": "Audacity Audio",
+		"mimetype": "audio/basic"
 	},
 	{
 		"ext": "avi",

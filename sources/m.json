@@ -1,5 +1,71 @@
 [
 	{
+		"ext": "m1v",
+		"name": "MPEG-1 Video",
+		"mimetype": "video/mpeg"
+	},
+	{
+		"ext": "m2t",
+		"name": "MPEG-2 Transport",
+		"mimetype": "video/vnd.dlna.mpeg-tts"
+	},
+	{
+		"ext": "m2ts",
+		"name": "MPEG-2 Transport Stream",
+		"mimetype": "video/vnd.dlna.mpeg-tts"
+	},
+	{
+		"ext": "m2v",
+		"name": "MPEG-2 Video",
+		"mimetype": "video/mpeg"
+	},
+	{
+		"ext": "m3u",
+		"name": "MP3 URL",
+		"mimetype": "audio/mpegurl"
+	},
+	{
+		"ext": "m3u8",
+		"name": "UTF-8 M3U Playlist",
+		"mimetype": "audio/x-mpegurl"
+	},
+	{
+		"ext": "m4b",
+		"name": "MPEG-4 Audio Book",
+		"mimetype": "audio/m4b"
+	},
+	{
+		"ext": "m4p",
+		"name": "MPEG 4 Protected",
+		"mimetype": "audio/m4b"
+	},
+	{
+		"ext": "m4r",
+		"name": "MPEG-4 Ringtone",
+		"mimetype": "audio/x-m4r"
+	},
+	{
+		"ext": "magnet",
+		"name": "Magnet link",
+		"mimetype": "application/x-magnet"
+	},
+	{
+		"ext": "man",
+		"name": "Unix Text Manual",
+		"mimetype": "application/x-troff-man"
+	},
+	{
+		"ext": "master",
+		"name": "ASP.NET Master Page",
+		"mimetype": "application/xml"
+	},
+	{
+		"ext": "mht",
+		"name": "MHTML Web Archive",
+		"mimetype": "message/rfc822"
+	},
+	
+	{
 		"ext": "mov",
 		"name": "Quicktime Movie",
 		"mimetype": "video/quicktime"

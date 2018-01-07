@@ -1,5 +1,30 @@
 [
 	{
+		"ext": "datasource",
+		"name": "Visual Studio Data Source",
+		"mimetype": "application/xml"
+	},
+	{
+		"ext": "der",
+		"name": "DER Certificate",
+		"mimetype": "application/x-x509-ca-cert"
+	},
+	{
+		"ext": "dib",
+		"name": "Device Independent Bitmap",
+		"mimetype": "image/bmp"
+	},
+	{
+		"ext": "dll",
+		"name": "Dynamic Link Library",
+		"mimetype": "application/x-msdownload"
+	},
+	{
+		"ext": "dtsconfig",
+		"name": "Microsoft SQL Server Integration Services Configuration",
+		"mimetype": "text/xml"
+	},	
+	{
 		"ext": "doc",
 		"name": "Document",
 		"mimetype": "application/msword"

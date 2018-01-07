@@ -13,5 +13,55 @@
 		"ext": "indd",
 		"name": "InDesign Document",
 		"mimetype": "application/x-indesign"
+	},
+	{
+		"ext": "ipa",
+		"name": "iPhone Application",
+		"mimetype": "application/x-itunes-ipa"
+	},
+	{
+		"ext": "ipg",
+		"name": "iPod Game",
+		"mimetype": "application/x-itunes-ipg"
+	},
+	{
+		"ext": "ipsw",
+		"name": "iPod and iPhone Software Update",
+		"mimetype": "application/x-itunes-ipsw"
+	},
+	{
+		"ext": "iqy",
+		"name": "Internet Query",
+		"mimetype": "text/x-ms-iqy"
+	},
+	{
+		"ext": "iss",
+		"name": "Inno Setup Script",
+		"mimetype": "text/plain"
+	},
+	{
+		"ext": "ite",
+		"name": "iTunes Extras",
+		"mimetype": "application/x-itunes-ite"
+	},
+	{
+		"ext": "itlp",
+		"name": "iTunes LP Album",
+		"mimetype": "application/x-itunes-itlp"
+	},
+	{
+		"ext": "itls",
+		"name": "iTunes Live Stream Format",
+		"mimetype": "application/x-itunes-itls"
+	},
+	{
+		"ext": "itms",
+		"name": "iTunes Music Store Format",
+		"mimetype": "application/x-itunes-itms"
+	},
+	{
+		"ext": "itpc",
+		"name": "iTunes Podcast Subscription Format",
+		"mimetype": "application/x-itunes-itpc"
 	}
 ]
