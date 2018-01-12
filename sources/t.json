@@ -5,9 +5,29 @@
 		"mimetype": "image/targa"
 	},
 	{
+		"ext": "thmx",
+		"name": "Microsoft Office 2007/2010 Theme",
+		"mimetype": "application/vnd.ms-officetheme"
+	},
+	{
 		"ext": "tif",
 		"name": "Tagged Image File",
 		"mimetype": "image/tiff"
+	},
+	{
+		"ext": "tiff",
+		"name": "Tagged Image File Format",
+		"mimetype": "image/tiff"
+	},
+	{
+		"ext": "torrent",
+		"name": "BitTorrent",
+		"mimetype": "application/x-bittorrent"
+	},
+	{
+		"ext": "tts",
+		"name": "ToolBook Translation System",
+		"mimetype": "video/vnd.dlna.mpeg-tts"
 	},
 	{
 		"ext": "ts",

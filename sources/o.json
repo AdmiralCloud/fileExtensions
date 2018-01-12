@@ -5,6 +5,11 @@
 		"mimetype": "application/vnd.oasis.opendocument.graphics"
 	},
 	{
+		"ext": "odc",
+		"name": "Office Data Connection",
+		"mimetype": "text/x-ms-odc"
+	},
+	{
 		"ext": "odm",
 		"name": "OpenDocument Master",
 		"mimetype": "application/vnd.oasis.opendocument.text-master"
@@ -43,6 +48,16 @@
 		"ext": "ott",
 		"name": "OpenDocument Template Text",
 		"mimetype": "application/vnd.oasis.opendocument.text-template"
+	},
+	{
+		"ext": "ova",
+		"name": "Open Virtual Appliance",
+		"mimetype": "application/x-virtualbox-ova"
+	},
+	{
+		"ext": "ovf",
+		"name": "Open Virtualization File",
+		"mimetype": "application/x-virtualbox-ovf"
 	},
 	{
 		"ext": "oxt",

@@ -1,5 +1,15 @@
 [
 	{
+		"ext": "xaml",
+		"name": "XAML",
+		"mimetype": "application/xaml+xml"
+	},
+	{
+		"ext": "xbap",
+		"name": "XAML Browser Application",
+		"mimetype": "application/x-ms-xbap"
+	},
+	{
 		"ext": "xdp",
 		"name": "Acrobat XML data package",
 		"mimetype": "application/vnd.adobe.xdp+xml"
@@ -30,14 +40,44 @@
 		"mimetype": "application/vnd.ms-excel"
 	},
 	{
+		"ext": "xld",
+		"name": "Excel Database",
+		"mimetype": "application/vnd.ms-excel"
+	},
+	{
 		"ext": "xlam",
 		"name": "Microsoft Excel Add-In with Macros",
 		"mimetype": "application/vnd.ms-excel.addin.macroEnabled.12"
 	},
 	{
+		"ext": "xlk",
+		"name": "Excel Backup",
+		"mimetype": "application/vnd.ms-excel"
+	},
+	{
+		"ext": "xll",
+		"name": "Excel Add-In",
+		"mimetype": "application/vnd.ms-excel"
+	},
+	{
+		"ext": "xlm",
+		"name": "Excel Macro",
+		"mimetype": "application/vnd.ms-excel"
+	},
+	{
 		"ext": "xls",
 		"name": "Microsoft Excel Sheet",
 		"mimetype": "application/vnd.ms-excel"
+	},
+	{
+		"ext": "xlsb",
+		"name": "Excel Binary Spreadsheet",
+		"mimetype": "application/vnd.ms-excel.sheet.binary.macroEnabled.12"
+	},
+	{
+		"ext": "xlsm",
+		"name": "Excel Open XML Macro-Enabled Spreadsheet",
+		"mimetype": "application/vnd.ms-excel.sheet.macroEnabled.12"
 	},
 	{
 		"ext": "xlsx",
@@ -65,8 +105,38 @@
 		"mimetype": "application/vnd.ms-excel"
 	},
 	{
+		"ext": "xml",
+		"name": "Extensible Markup Language",
+		"mimetype": "text/xml"
+	},
+	{
+		"ext": "xrm-ms",
+		"name": "Microsoft Security Certificate",
+		"mimetype": "text/xml"
+	},
+	{
+		"ext": "xsc",
+		"name": "Visual Studio Dataset Internal Info",
+		"mimetype": "application/xml"
+	},
+	{
 		"ext": "xsd",
 		"name": "XML Schema Definition",
 		"mimetype": "text/xml"
+	},
+	{
+		"ext": "xsl",
+		"name": "XML Style Sheet",
+		"mimetype": "text/xml"
+	},
+	{
+		"ext": "xslt",
+		"name": "XSL Transform",
+		"mimetype": "application/xml"
+	},
+	{
+		"ext": "xss",
+		"name": "XML Style Sheet",
+		"mimetype": "application/xml"
 	}
 ]

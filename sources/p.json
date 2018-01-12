@@ -1,5 +1,85 @@
 [
 	{
+		"ext": "p10",
+		"name": "Certificate Request",
+		"mimetype": "application/pkcs10"
+	},
+	{
+		"ext": "p12",
+		"name": "Personal Information Exchange",
+		"mimetype": "application/x-pkcs12"
+	},
+	{
+		"ext": "p7b",
+		"name": "PKCS #7 Certificate",
+		"mimetype": "application/x-pkcs7-certificates"
+	},
+	{
+		"ext": "p7c",
+		"name": "PKCS #7 Certificate",
+		"mimetype": "application/pkcs7-mime"
+	},
+	{
+		"ext": "p7m",
+		"name": "Digitally Encrypted Message",
+		"mimetype": "application/pkcs7-mime"
+	},
+	{
+		"ext": "p7r",
+		"name": "Certificate Request Response",
+		"mimetype": "application/x-pkcs7-certreqresp"
+	},
+	{
+		"ext": "p7s",
+		"name": "Digitally Signed Email Message",
+		"mimetype": "application/pkcs7-signature"
+	},
+	{
+		"ext": "pcast",
+		"name": "iTunes Podcast",
+		"mimetype": "application/x-podcast"
+	},
+	{
+		"ext": "pdfxml",
+		"name": "Adobe PDFXML Document",
+		"mimetype": "application/vnd.adobe.pdfxml"
+	},
+	{
+		"ext": "pdx",
+		"name": "Adobe Acrobat Index",
+		"mimetype": "application/vnd.adobe.pdx"
+	},
+	{
+		"ext": "pfx",
+		"name": "PKCS #12 Certificate",
+		"mimetype": "application/x-pkcs12"
+	},
+	{
+		"ext": "pko",
+		"name": "Public Key Security Object",
+		"mimetype": "application/vnd.ms-pki.pko"
+	},
+	{
+		"ext": "pls",
+		"name": "PL/SQL Stored Procedure",
+		"mimetype": "audio/scpls"
+	},
+	{
+		"ext": "psc1",
+		"name": "Microsoft Windows PowerShell Console",
+		"mimetype": "application/PowerShell"
+	},
+	{
+		"ext": "py",
+		"name": "Python Script",
+		"mimetype": "text/plain"
+	},
+	{
+		"ext": "pyw",
+		"name": "Python GUI Source",
+		"mimetype": "text/plain"
+	},
+	{
 		"ext": "pdf",
 		"name": "Portable Document Format",
 		"mimetype": "application/pdf"

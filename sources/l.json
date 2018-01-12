@@ -1,0 +1,12 @@
+[
+    {
+        "ext": "latex",
+        "name": "LaTex Source Document",
+        "mimetype": "application/x-latex"
+    },
+    {
+        "ext": "library-ms",
+        "name": "Windows Library Description",
+        "mimetype": "application/windows-library+xml"
+    }
+]

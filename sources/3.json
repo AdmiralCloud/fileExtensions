@@ -1,0 +1,27 @@
+[
+    {
+        "ext": "3fr",
+        "name": "Hasselblad 3F RAW Image",
+        "mimetype": "image/x-hasselblad-3fr"
+    },
+    {
+        "ext": "3g2",
+        "name": "3GPP2 Multimedia",
+        "mimetype": "video/3gpp2"
+    },
+    {
+        "ext": "3gp",
+        "name": "3GPP Multimedia",
+        "mimetype": "video/3gpp"
+    },
+    {
+        "ext": "3gp2",
+        "name": "3GPP Multimedia",
+        "mimetype": "video/3gpp2"
+    },
+    {
+        "ext": "3gpp",
+        "name": "3GPP Media",
+        "mimetype": "video/3gpp"
+    }
+]

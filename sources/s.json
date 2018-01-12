@@ -1,5 +1,120 @@
 [
 	{
+		"ext": "sct",
+		"name": "Windows Scriptlet",
+		"mimetype": "text/scriptlet"
+	},
+	{
+		"ext": "settings",
+		"name": "Visual Studio Settings",
+		"mimetype": "application/xml"
+	},
+	{
+		"ext": "shtml",
+		"name": "Server Side Include HTML",
+		"mimetype": "text/html"
+	},
+	{
+		"ext": "sit",
+		"name": "StuffIt Archive",
+		"mimetype": "application/x-stuffit"
+	},
+	{
+		"ext": "sitemap",
+		"name": "ASP.NET Site Map",
+		"mimetype": "application/xml"
+	},
+	{
+		"ext": "skin",
+		"name": "ASP.NET Skin",
+		"mimetype": "application/xml"
+	},
+	{
+		"ext": "sldm",
+		"name": "Microsoft PowerPoint Slide",
+		"mimetype": "application/vnd.ms-powerpoint.slide.macroEnabled.12"
+	},
+	{
+		"ext": "sldx",
+		"name": "Microsoft PowerPoint 2007/2010 Open XML Slide with Macros",
+		"mimetype": "application/vnd.openxmlformats-officedocument.presentationml.slide"
+	},
+	{
+		"ext": "slk",
+		"name": "Symbolic Link",
+		"mimetype": "application/vnd.ms-excel"
+	},
+	{
+		"ext": "sln",
+		"name": "Visual Studio Solution",
+		"mimetype": "text/plain"
+	},
+	{
+		"ext": "slupkg-ms",
+		"name": "XrML Digital License Package",
+		"mimetype": "application/x-ms-license"
+	},
+	{
+		"ext": "snd",
+		"name": "Sound resource",
+		"mimetype": "audio/basic"
+	},
+	{
+		"ext": "snippet",
+		"name": "Visual Studio IntelliSense Code Snippet",
+		"mimetype": "application/xml"
+	},
+	{
+		"ext": "spc",
+		"name": "Software Publisher Certificate",
+		"mimetype": "application/x-pkcs7-certificates"
+	},
+	{
+		"ext": "sst",
+		"name": "Serialized Certificate Store",
+		"mimetype": "application/vnd.ms-pki.certstore"
+	},
+	{
+		"ext": "stc",
+		"name": "Spreadsheet Template",
+		"mimetype": "application/vnd.sun.xml.calc.template"
+	},
+	{
+		"ext": "std",
+		"name": "Staroffice Template Drawing",
+		"mimetype": "application/vnd.sun.xml.draw.template"
+	},
+	{
+		"ext": "stl",
+		"name": "Stereolithography",
+		"mimetype": "application/vnd.ms-pki.stl"
+	},
+	{
+		"ext": "stw",
+		"name": "StarOffice Document Template",
+		"mimetype": "application/vnd.sun.xml.writer.template"
+	},
+	{
+		"ext": "sxc",
+		"name": "StarOffice Calc Spreadsheet",
+		"mimetype": "application/vnd.sun.xml.calc"
+	},
+	{
+		"ext": "sxd",
+		"name": "ArcScene Document",
+		"mimetype": "application/vnd.sun.xml.draw"
+	},
+	{
+		"ext": "sxg",
+		"name": "Apache OpenOffice Master Document",
+		"mimetype": "application/vnd.sun.xml.writer.global"
+	},
+	{
+		"ext": "sxw",
+		"name": "StarOffice Writer Document",
+		"mimetype": "application/vnd.sun.xml.writer"
+	},
+	{
 		"ext": "svg",
 		"name": "Scalable Vector Graphics",
 		"mimetype": "image/svg+xml"

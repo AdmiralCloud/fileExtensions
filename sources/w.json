@@ -1,13 +1,58 @@
 [
 	{
+		"ext": "wal",
+		"name": "Winamp Modern Skin",
+		"mimetype": "interface/x-winamp3-skin"
+	},
+	{
 		"ext": "wav",
 		"name": "Microsoft Wave",
 		"mimetype": "audio/wav"
 	},
 	{
+		"ext": "wave",
+		"name": "WAVE Audio",
+		"mimetype": "audio/wav"
+	},
+	{
+		"ext": "wax",
+		"name": "Windows Media Audio Redirect",
+		"mimetype": "audio/x-ms-wa"
+	},
+	{
+		"ext": "wbk",
+		"name": "application/msword",
+		"mimetype": "application/msword"
+	},
+	{
+		"ext": "wdp",
+		"name": "Windows Media Photo",
+		"mimetype": "image/vnd.ms-photo"
+	},
+	{
+		"ext": "website",
+		"name": "Internet Explorer Pinned Site Shortcut",
+		"mimetype": "application/x-mswebsite"
+	},
+	{
 		"ext": "webm",
 		"name": "Multimedia Container",
 		"mimetype": "video/webm"
+	},
+	{
+		"ext": "wiz",
+		"name": "Microsoft Wizard",
+		"mimetype": "application/msword"
+	},
+	{
+		"ext": "wlz",
+		"name": "Winamp Language Pack",
+		"mimetype": "interface/x-winamp-lang"
+	},
+	{
+		"ext": "wm",
+		"name": "Windows Media",
+		"mimetype": "video/x-ms-wm"
 	},
 	{
 		"ext": "wma",
@@ -23,6 +68,11 @@
 		"ext": "wmv",
 		"name": "Windows Media Video",
 		"mimetype": "video/x-ms-wmv"
+	},
+	{
+		"ext": "wmx",
+		"name": "Windows Media Redirector",
+		"mimetype": "video/x-ms-wmx"
 	},
 	{
 		"ext": "wmz",
@@ -43,5 +93,15 @@
 		"ext": "wsdl",
 		"name": "Web Services Description Language",
 		"mimetype": "application/xml"
+	},
+	{
+		"ext": "wsz",
+		"name": "Winamp Classic Skin",
+		"mimetype": "interface/x-winamp-skin"
+	},
+	{
+		"ext": "wvx",
+		"name": "Windows Media Video Redirector",
+		"mimetype": "video/x-ms-wvx"
 	}
 ]

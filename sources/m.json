@@ -64,7 +64,61 @@
 		"name": "MHTML Web Archive",
 		"mimetype": "message/rfc822"
 	},
-	
+	{
+		"ext": "mhtml",
+		"name": "Mime HTML",
+		"mimetype": "message/rfc822"
+	},
+	{
+		"ext": "mid",
+		"name": "Musical Instrument Digital Interface",
+		"mimetype": "audio/mid"
+	},
+	{
+		"ext": "midi",
+		"name": "Musical Instrument Digital Interface",
+		"mimetype": "audio/mid"
+	},
+	{
+		"ext": "mod",
+		"name": "Hard disk camera movie MPEG-2 program stream",
+		"mimetype": "video/mpeg"
+	},
+	{
+		"ext": "mp2",
+		"name": "MPEG-1 Audio Layer 2",
+		"mimetype": "audio/mpeg"
+	},
+	{
+		"ext": "mp2v",
+		"name": "MPEG-2 Video",
+		"mimetype": "video/mpeg"
+	},
+	{
+		"ext": "mp4v",
+		"name": "MPEG-4 Video",
+		"mimetype": "video/mp4"
+	},
+	{
+		"ext": "mpa",
+		"name": "MPEG-2 Audio",
+		"mimetype": "video/mpeg"
+	},
+	{
+		"ext": "mpe",
+		"name": "MPEG Movie",
+		"mimetype": "video/mpeg"
+	},
+	{
+		"ext": "mpf",
+		"name": "Microsoft Media Package",
+		"mimetype": "application/vnd.ms-mediapackage"
+	},
+	{
+		"ext": "mpv2",
+		"name": "MPEG 2 Video Format",
+		"mimetype": "video/mpeg"
+	},
 	{
 		"ext": "mov",
 		"name": "Quicktime Movie",

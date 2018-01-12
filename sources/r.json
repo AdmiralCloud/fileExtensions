@@ -1,5 +1,50 @@
 [
 	{
+		"ext": "raf",
+		"name": "RAW Image",
+		"mimetype": "image/x-fuji-raf"
+	},
+	{
+		"ext": "rat",
+		"name": "Nimbus 7 SAMS data",
+		"mimetype": "application/rat-file"
+	},
+	{
+		"ext": "rc",
+		"name": "Compiler Resource",
+		"mimetype": "text/plain"
+	},
+	{
+		"ext": "rc2",
+		"name": "Visual Studio Resources",
+		"mimetype": "text/plain"
+	},
+	{
+		"ext": "rct",
+		"name": "Visual Studio Resource Template",
+		"mimetype": "text/plain"
+	},
+	{
+		"ext": "rdlc",
+		"name": "Visual Studio Client Report Definition",
+		"mimetype": "application/xml"
+	},
+	{
+		"ext": "resx",
+		"name": "Visual Studio.NET XML resource template",
+		"mimetype": "application/xml"
+	},
+	{
+		"ext": "rmi",
+		"name": "RMID MIDI",
+		"mimetype": "audio/mid"
+	},
+	{
+		"ext": "rmp",
+		"name": "Magellan Raster Map",
+		"mimetype": "application/vnd.rn-rn_music_package"
+	},
+	{
 		"ext": "rtf",
 		"name": "Rich Text Format",
 		"mimetype": "application/msword"

@@ -1,5 +1,105 @@
 [
 	{
+		"ext": "vb",
+		"name": "Visual Basic Project Item",
+		"mimetype": "text/plain"
+	},
+	{
+		"ext": "vbox",
+		"name": "Oracle VM VirtualBox Settings",
+		"mimetype": "application/x-virtualbox-vbox"
+	},
+	{
+		"ext": "vbox-extpack",
+		"name": "Oracle VM VirtualBox Extension Pack",
+		"mimetype": "application/x-virtualbox-vbox-extpack"
+	},
+	{
+		"ext": "vbproj",
+		"name": "Visual Studio Visual Basic Project",
+		"mimetype": "text/plain"
+	},
+	{
+		"ext": "vdi",
+		"name": "VirtualBox Virtual Disk Image",
+		"mimetype": "application/x-virtualbox-vdi"
+	},
+	{
+		"ext": "vdp",
+		"name": "Visual Studio Deployment Project",
+		"mimetype": "text/plain"
+	},
+	{
+		"ext": "vdproj",
+		"name": "Visual Studio Setup and Deployment Project",
+		"mimetype": "text/plain"
+	},
+	{
+		"ext": "vhd",
+		"name": "Virtual PC Virtual Hard Disk",
+		"mimetype": "application/x-virtualbox-vhd"
+	},
+	{
+		"ext": "vmdk",
+		"name": "Virtual Machine Disk File",
+		"mimetype": "application/x-virtualbox-vmdk"
+	},
+	{
+		"ext": "vor",
+		"name": "StarOffice Template",
+		"mimetype": "application/vnd.stardivision.writer"
+	},
+	{
+		"ext": "vscontent",
+		"name": "Visual Studio Content",
+		"mimetype": "application/xml"
+	},
+	{
+		"ext": "vsi",
+		"name": "Visual Studio Content Installer",
+		"mimetype": "application/ms-vsi"
+	},
+	{
+		"ext": "vspolicy",
+		"name": "Microsoft Visual Studio Policy Description Language",
+		"mimetype": "application/ms-vsi"
+	},
+	{
+		"ext": "vspolicydef",
+		"name": "Visual Studio Policy Description Language Definition",
+		"mimetype": "application/xml"
+	},
+	{
+		"ext": "vspscc",
+		"name": "Visual Studio Project Source Control",
+		"mimetype": "text/plain"
+	},
+	{
+		"ext": "vsscc",
+		"name": "Visual Studio Source Control Solution Root Metadata",
+		"mimetype": "text/plain"
+	},
+	{
+		"ext": "vssettings",
+		"name": "Visual Studio Settings",
+		"mimetype": "text/xml"
+	},
+	{
+		"ext": "vssscc",
+		"name": "Visual Studio Solution Source Control",
+		"mimetype": "text/plain"
+	},
+	{
+		"ext": "vstemplate",
+		"name": "Microsoft Visual Studio Project Template",
+		"mimetype": "text/xml"
+	},
+	{
+		"ext": "vsto",
+		"name": "Microsoft Visual Studio Tools for Office Add-in",
+		"mimetype": "application/x-ms-vsto"
+	},
+	{
 		"ext": "vcf",
 		"name": "vCard",
 		"mimetype": "text/x-vcard"
