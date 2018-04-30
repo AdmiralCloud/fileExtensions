@@ -5,6 +5,16 @@
 		"mimetype": "application/x-virtualbox-hdd"
 	},
 	{
+		"ext": "heic",
+		"name": "High Efficiency Image File Format - Single Image HEVC encoded",
+		"mimetype": "image/heic"
+	},
+	{
+		"ext": "heif",
+		"name": "High Efficiency Image File Format",
+		"mimetype": "image/heif"
+	},
+	{
 		"ext": "html",
 		"name": "Hypertext Markup Language",
 		"mimetype": "text/html"

@@ -1,6 +1,6 @@
 {
   "name": "file-extensions",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Creates a list of file extensions and their \"real\" names",
   "main": "index.js",
   "scripts": {
