@@ -58,5 +58,10 @@
 		"ext": "r3d",
 		"name": "REDCODE Video File",
 		"mimetype": "application/octet-stream"
+	},
+	{
+		"ext": "rw2",
+		"name": "Panasonic RAW Image",
+		"mimetype": "image/x-panasonic-rw2"
 	}	
 ]
