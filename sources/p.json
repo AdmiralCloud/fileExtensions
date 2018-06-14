@@ -35,6 +35,11 @@
 		"mimetype": "application/pkcs7-signature"
 	},
 	{
+		"ext": "pages",
+		"name": "Pages Document",
+		"mimetype": "application/x-iwork-pages-sffpages"
+	},
+	{
 		"ext": "pcast",
 		"name": "iTunes Podcast",
 		"mimetype": "application/x-podcast"
