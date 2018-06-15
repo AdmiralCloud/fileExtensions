@@ -8,7 +8,10 @@
     "postinstall": "node createFile.js"
   },
   "author": "Mark Poepping/mmpro",
-  "license": "ISC",
+  "contributors": [
+    "Florian Timme/mmpro"
+  ],
+  "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.10"
   },
