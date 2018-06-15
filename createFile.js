@@ -12,7 +12,6 @@ _.forEach(sourceFiles, function(file) {
   sources    = _.concat(sources, source)
 })
 
-
 // write to file
 let data = 'module.exports = ' + JSON.stringify(sources, null, 2)
 fs.writeFile(fileToWrite, data, function(err) {
