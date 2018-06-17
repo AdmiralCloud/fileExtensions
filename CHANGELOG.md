@@ -1,3 +1,14 @@
+<a name="1.1.0"></a>
+# [1.1.0](https://github.com/mmpro/fileExtensions/compare/v1.0.1...v1.1.0) (2018-06-17 20:47)
+
+
+### Features
+
+* **Misc:** Force minor version update | MP ([ec03384](https://github.com/mmpro/fileExtensions/commit/ec03384))    
+  Force minor version update to avoid conflicts with outdated versions
+
+
+
 <a name="1.0.1"></a>
 ## [1.0.1](https://github.com/mmpro/fileExtensions/compare/v1.0.0...v1.0.1) (2018-06-15 10:09)
 
