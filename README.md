@@ -21,7 +21,11 @@ Download package from Github or use npm to install the package.
 After installation this package will automatically create the index.js file from sources.
 
 # Contribution
-After you've added a new file extension, please commit with a meaningful message and then run "make release". Publishing to npm must be done manually.
+If you want to add a new file extension, choose the right folder and add it like the other file extension. 
+
+To commit, add it with git-add (or any GUI) and then use "git cz" on the CLI and answer the questions there. If you're done and want to release a new version, run "make release". 
+
+Publishing to npm must be done manually.
 
 # License
 MIT License
