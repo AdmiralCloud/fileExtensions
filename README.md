@@ -20,6 +20,9 @@ Download package from Github or use npm to install the package.
 
 After installation this package will automatically create the index.js file from sources.
 
+# Contribution
+After you've added a new file extension, please commit with a meaningful message and then run "make release". Publishing to npm must be done manually.
+
 # License
 MIT License
 
