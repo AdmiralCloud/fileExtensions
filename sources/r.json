@@ -10,6 +10,11 @@
 		"mimetype": "application/rat-file"
 	},
 	{
+		"ext": "raw",
+		"name": "Raw Image Data File",
+		"mimetype": "image/x-panasonic-raw"
+	},
+	{
 		"ext": "rc",
 		"name": "Compiler Resource",
 		"mimetype": "text/plain"
