@@ -1,3 +1,14 @@
+<a name="1.1.1"></a>
+## [1.1.1](https://github.com/mmpro/fileExtensions/compare/v1.1.0...v1.1.1) (2018-08-31 09:10)
+
+
+### Bug Fixes
+
+* **FileExtensions:** add raw | FT ([305cf42](https://github.com/mmpro/fileExtensions/commit/305cf42))    
+  add raw
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/mmpro/fileExtensions/compare/v1.0.1...v1.1.0) (2018-06-17 20:47)
 
