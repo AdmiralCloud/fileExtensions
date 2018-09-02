@@ -1,5 +1,10 @@
 [
 	{
+		"ext": "eip",
+		"name": "Enhanced Image Package",
+		"mimetype": "application/octet-stream"
+	},
+	{
 		"ext": "eps",
 		"name": "Encapsulated PostScript",
 		"mimetype": "application/postscript"

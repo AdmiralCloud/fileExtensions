@@ -70,6 +70,16 @@
 		"mimetype": "application/x-pkcs7-certificates"
 	},
 	{
+		"ext": "srw",
+		"name": "Samsung RAW Image",
+		"mimetype": "application/octet-stream"
+	},
+	{
+		"ext": "sr2",
+		"name": "Sony RAW Image File",
+		"mimetype": "image/x-sony-sr2"
+	},
+	{
 		"ext": "sst",
 		"name": "Serialized Certificate Store",
 		"mimetype": "application/vnd.ms-pki.certstore"

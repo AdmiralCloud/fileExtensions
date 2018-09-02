@@ -20,6 +20,11 @@
 		"mimetype": "application/x-msdownload"
 	},
 	{
+		"ext": "dng",
+		"name": "Digital Negative (Adobe)",
+		"mimetype": "image/dng"
+	},
+	{
 		"ext": "dtsconfig",
 		"name": "Microsoft SQL Server Integration Services Configuration",
 		"mimetype": "text/xml"
