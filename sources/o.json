@@ -75,6 +75,16 @@
 		"mimetype": "audio/ogg"
 	},
 	{
+		"ext": "oga",
+		"name": "Ogg File Format",
+		"mimetype": "audio/ogg"
+	},
+	{
+		"ext": "ogv",
+		"name": "Ogg File Format",
+		"mimetype": "video/ogg"
+	},
+	{
 		"ext": "otf",
 		"name": "OpenType Font",
 		"mimetype": "application/x-font-opentype"
