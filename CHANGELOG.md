@@ -1,3 +1,14 @@
+<a name="1.1.2"></a>
+## [1.1.2](https://github.com/mmpro/fileExtensions/compare/v1.1.1...v1.1.2) (2018-09-02 11:44)
+
+
+### Bug Fixes
+
+* **FileExtensions:** Added several RAW file types | MP ([cc50171](https://github.com/mmpro/fileExtensions/commit/cc50171))    
+  Added several RAW file types
+
+
+
 <a name="1.1.1"></a>
 ## [1.1.1](https://github.com/mmpro/fileExtensions/compare/v1.1.0...v1.1.1) (2018-08-31 09:10)
 
