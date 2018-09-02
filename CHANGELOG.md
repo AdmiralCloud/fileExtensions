@@ -1,3 +1,14 @@
+<a name="1.1.3"></a>
+## [1.1.3](https://github.com/mmpro/fileExtensions/compare/v1.1.2...v1.1.3) (2018-09-02 16:42)
+
+
+### Bug Fixes
+
+* **FileExtensions:** Added ogv and oga extensions | MP ([87dc96d](https://github.com/mmpro/fileExtensions/commit/87dc96d))    
+  Added ogv and oga extensions
+
+
+
 <a name="1.1.2"></a>
 ## [1.1.2](https://github.com/mmpro/fileExtensions/compare/v1.1.1...v1.1.2) (2018-09-02 11:44)
 
