@@ -105,6 +105,11 @@
 		"mimetype": "application/vnd.sun.xml.writer.template"
 	},
 	{
+		"ext": "swf",
+		"name": "Small Web Format",
+		"mimetype": "application/x-shockwave-flash"
+	},
+	{
 		"ext": "sxc",
 		"name": "StarOffice Calc Spreadsheet",
 		"mimetype": "application/vnd.sun.xml.calc"

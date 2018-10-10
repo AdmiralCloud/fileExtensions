@@ -13,7 +13,8 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.10",
+    "npm": "^6.4.1"
   },
   "devDependencies": {
     "ac-conventional-changelog-template": "github:mmpro/ac-conventional-changelog-template.git",
