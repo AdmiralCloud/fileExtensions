@@ -80,6 +80,11 @@
 		"mimetype": "audio/mid"
 	},
 	{
+		"ext": "mkv",
+		"name": "Matroska Video File",
+		"mimetype": "video/x-matroska"
+	},
+	{
 		"ext": "mod",
 		"name": "Hard disk camera movie MPEG-2 program stream",
 		"mimetype": "video/mpeg"
@@ -167,7 +172,7 @@
 	{
 		"ext": "mpegvideo",
 		"name": "Moving Picture Experts Groups Video",
-		"mimetype": ""
+		"mimetype": "video/mpeg"
 	},
 	{
 		"ext": "mpg",
