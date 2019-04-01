@@ -1,3 +1,14 @@
+<a name="1.1.6"></a>
+## [1.1.6](https://github.com/mmpro/fileExtensions/compare/v1.1.3...v1.1.6) (2019-04-01 14:23)
+
+
+### Bug Fixes
+
+* **FileExtensions:** added svg and mogrt file types | FT ([8051014](https://github.com/mmpro/fileExtensions/commit/8051014))    
+  added svg and mogrt file types
+
+
+
 <a name="1.1.3"></a>
 ## [1.1.3](https://github.com/mmpro/fileExtensions/compare/v1.1.2...v1.1.3) (2018-09-02 16:42)
 
