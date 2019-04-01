@@ -125,6 +125,11 @@
 		"mimetype": "video/mpeg"
 	},
 	{
+		"ext": "mogrt",
+		"name": "Adobe Motion Graphics Template",
+		"mimetype": "application/octet-stream"
+	},
+	{
 		"ext": "mov",
 		"name": "Quicktime Movie",
 		"mimetype": "video/quicktime"

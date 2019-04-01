@@ -105,6 +105,11 @@
 		"mimetype": "application/vnd.sun.xml.writer.template"
 	},
 	{
+		"ext": "svg",
+		"name": "Scalable Vector Graphics",
+		"mimetype": "image/svg+xml"
+	},
+	{
 		"ext": "swf",
 		"name": "Small Web Format",
 		"mimetype": "application/x-shockwave-flash"
