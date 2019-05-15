@@ -152,7 +152,8 @@
 	{
 		"ext": "mxf",
 		"name": "Material Exchange Format",
-		"mimetype": "application/mxf"
+		"mimetype": "application/mxf",
+		"useType" : 'video'
 	},
 	{
 		"ext": "m4a",
