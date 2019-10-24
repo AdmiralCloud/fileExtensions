@@ -1,3 +1,14 @@
+<a name="1.1.7"></a>
+## [1.1.7](https://github.com/mmpro/fileExtensions/compare/v1.1.6...v1.1.7) (2019-10-24 15:41)
+
+
+### Bug Fixes
+
+* **FileExtensions:** added arw sony alpha raw file ext | FT ([27d7210](https://github.com/mmpro/fileExtensions/commit/27d7210))    
+  added arw sony alpha raw file ext
+
+
+
 <a name="1.1.6"></a>
 ## [1.1.6](https://github.com/mmpro/fileExtensions/compare/v1.1.3...v1.1.6) (2019-04-01 14:23)
 
