@@ -55,6 +55,11 @@
 		"mimetype": "application/x-ms-application"
 	},
 	{
+		"ext": "arw",
+		"name": "Sony Alpha Raw",
+		"mimetype": "image/x-sony-arw"
+	},
+	{
 		"ext": "asax",
 		"name": "ASP.NET Server Application",
 		"mimetype": "application/xml"
