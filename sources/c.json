@@ -25,6 +25,11 @@
 		"mimetype": "text/x-ms-contact"
 	},
 	{
+		"ext": "cpf",
+		"name": "Cognos Project File",
+		"mimetype": "application/octet-stream"
+	},
+		{
 		"ext": "crl",
 		"name": "Certificate Revocation List",
 		"mimetype": "application/pkix-crl"
