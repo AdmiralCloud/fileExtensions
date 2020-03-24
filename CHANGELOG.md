@@ -1,3 +1,14 @@
+<a name="1.1.9"></a>
+## [1.1.9](https://github.com/mmpro/fileExtensions/compare/v1.1.8...v1.1.9) (2020-03-24 06:33)
+
+
+### Bug Fixes
+
+* **Misc:** Updated packages | MP ([cd7386122088f099b02520b00a06419ce78e0963](https://github.com/mmpro/fileExtensions/commit/cd7386122088f099b02520b00a06419ce78e0963))    
+  Updated packages
+
+
+
 <a name="1.1.8"></a>
 ## [1.1.8](https://github.com/mmpro/fileExtensions/compare/v1.1.7...v1.1.8) (2020-03-04 15:56)
 
