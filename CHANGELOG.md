@@ -1,3 +1,14 @@
+<a name="1.1.8"></a>
+## [1.1.8](https://github.com/mmpro/fileExtensions/compare/v1.1.7...v1.1.8) (2020-03-04 15:56)
+
+
+### Bug Fixes
+
+* **FileExtensions:** added cpf cognos project file to file extensions | FT ([8f6a54c930e4ceac18107f1b60bfc55c19cd9d05](https://github.com/mmpro/fileExtensions/commit/8f6a54c930e4ceac18107f1b60bfc55c19cd9d05))    
+  added cpf cognos project file to file extensions
+
+
+
 <a name="1.1.7"></a>
 ## [1.1.7](https://github.com/mmpro/fileExtensions/compare/v1.1.6...v1.1.7) (2019-10-24 15:41)
 
