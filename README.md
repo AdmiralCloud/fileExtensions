@@ -1,3 +1,6 @@
+Please do not use this package any longer. Please use https://github.com/mmpro/ac-file-extensions instead!
+
+
 # File Extension List
 This little helper creates a list of file extensions including their "real" name and mimetype. 
 
