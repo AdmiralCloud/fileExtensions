@@ -1,0 +1,9 @@
+# Code Owners
+#
+# This file defines who is responsible for code in this repository.
+# Reviews from code owners are automatically requested for pull requests.
+#
+# More info: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owner for everything in the repo
+* @AdmiralCloud/ac-maintainer-backend
